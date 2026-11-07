@@ -1,7 +1,7 @@
 {
   "name": "119 PAY 소방 근무수당",
   "short_name": "119 PAY",
-  "start_url": "./?v=3dlook",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#FFF2EA",
   "theme_color": "#E94849",
@@ -18,5 +18,6 @@
       "type": "image/png",
       "purpose": "any"
     }
-  ]
+  ],
+  "scope": "./"
 }
